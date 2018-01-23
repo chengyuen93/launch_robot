@@ -1,4 +1,4 @@
-clone the folder from github:
+clone the folder from github:\n
 	$ git clone https://github.com/chengyuen93/launch_robot
 
 this folder contains the following essential items:
