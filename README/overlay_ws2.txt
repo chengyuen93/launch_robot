@@ -1,0 +1,15 @@
+overlay_ws2:
+	contains the edited map_server
+
+todo:
+	1. in overlay_ws2:
+		$ catkin_make
+	2. include the following line in ~/.bashrc:
+		source ~/overlay_ws2/devel/setup.bash
+	3. in the home directory:
+		$ source ~/.bashrc
+		$ roscd map_server
+	4. check that the result should be:
+		/home/t001/overlay_ws2/src/map_server
+	   and not:
+		/opt/ros/kinetic/share/map_server
