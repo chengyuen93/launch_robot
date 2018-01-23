@@ -7,7 +7,7 @@ this folder contains the following essential items:
         - urdf          - urdf of the robot
         - launch        - launch file for amcl
                         - launch file for starting up openCR
-                        - launch file to run all the essential $
+                        - launch file to run all the essential nodes
 				- urdf
                                 - openCR
                                 - lidar
